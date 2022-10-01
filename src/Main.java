@@ -1,5 +1,4 @@
 /*
-Sara Qayyum | 20I-0556 | BSSE-R | Submission for Assignment 3
 This program should
 >retrieve and print the meaning of a queried word
 >delete any word from a tree and balance the tree if needed
